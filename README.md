@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @orgregar
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on an OS project that will take beginners
-- 
+- 👀 I’m interested in Cloud Engineering, Cyber Security, DevOps, and DevSecOps
+- 🌱 I’m currently learning Git, Linux, CI/CD, and AWS
+
 
 <!---
 orgregar/orgregar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
